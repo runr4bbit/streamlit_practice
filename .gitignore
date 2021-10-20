@@ -1,2 +1,2 @@
 image_analysis/temp/*
-image_analysis/secret.json
+**/secret.json

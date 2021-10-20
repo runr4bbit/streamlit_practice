@@ -10,3 +10,9 @@
 物体検出アプリ
 
 ![物体検出アプリの画面](./image_analysis/main.png)
+
+## youtube_search
+
+YouTube分析アプリ
+
+![YouTube分析アプリ](./image_analysis/main.png)
