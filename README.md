@@ -16,3 +16,9 @@
 YouTube分析アプリ
 
 ![YouTube分析アプリ](./youtube_search/main.png)
+
+## web_scraping
+
+WEBスクレイピング活用アプリ
+
+![WEBスクレイピング活用アプリ](./web_scraping/main.png)
