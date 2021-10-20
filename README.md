@@ -15,4 +15,4 @@
 
 YouTube分析アプリ
 
-![YouTube分析アプリ](./image_analysis/main.png)
+![YouTube分析アプリ](./youtube_search/main.png)
